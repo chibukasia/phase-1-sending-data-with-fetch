@@ -23,4 +23,4 @@ function submitData(name, email){
     return fetchedData;
 }
 
-submitData('Chief', 'chief@cg')
+//submitData('Chief', 'chief@cg')
